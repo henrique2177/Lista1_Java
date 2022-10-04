@@ -9,11 +9,11 @@ uma variável é um objeto capaz de reter e representar um valor ou expressão.<
 
 Questão 3 - O que é tipo de variável<br>
 Representa se será armazenado um valor inteiro, uma palavra, valor decimal etc.
-Tipos de variáveis
-int: Variável número do tipo inteiro, positivo ou negativo.
-float: Variável numérica do tipo decimal.
-double: Variável numérica do tipo decimal de precisão dupla.
-char: Variável que representa um caractere do tipo texto.
+Tipos de variáveis<br>
+int: Variável número do tipo inteiro, positivo ou negativo.<br>
+float: Variável numérica do tipo decimal.<br>
+double: Variável numérica do tipo decimal de precisão dupla.<br>
+char: Variável que representa um caractere do tipo texto.<br>
 string: Variável que representa um conjunto de caracteres do tipo texto.<br>
 
 Questão 4- O que é atribuição<br>
