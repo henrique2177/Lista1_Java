@@ -1,6 +1,6 @@
 # Lista1_Java
 Lista de exercícios de Java SENAI
-
+<h1 style="text-align:center">Questionario</h1><br>
 Questão 1 – Qual a definição de Algoritmo?<br>
 Algoritmo é um conjunto de instruções, como uma receita de bolo, constituído de um número finito de passos<br>
 
